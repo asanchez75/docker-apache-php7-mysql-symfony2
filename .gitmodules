@@ -1,0 +1,3 @@
+[submodule "application"]
+	path = application
+	url = https://github.com/asanchez75/symfony-nemrod-demo.git
